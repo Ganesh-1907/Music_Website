@@ -1,0 +1,178 @@
+.main{
+    background-image: url('head2.jpg');
+    background-color: blue;
+    background-size: cover;
+    width:100%;
+     height:98vh; 
+}
+.song-pic-1
+{
+    width: 195px;
+    height: 15pc;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.one{
+    background-color: rgb(36, 36, 37);
+    background-size: cover;
+    width:100%;
+     height:auto; 
+}
+.trend{
+    /* overflow-x: scroll; */
+    display: flex;
+}
+.user-pic-1{
+    width: 135px;
+    height: 10pc;
+    border-radius: 150%;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.artist{
+    display: flex;
+    /* overflow-x: scroll; */
+}
+.director{
+    display: flex;
+    /* overflow-x: scroll; */
+}
+.menubar-m{
+    background: rgb(126, 124, 124);
+    text-align: center;
+  }
+  .menubar-m ul{
+    display: inline-flex;
+    list-style: none;
+    color:rgb(46, 41, 41)
+  }
+  .menubar-m ul li{
+      
+    width: 80px;
+    height: 10px;
+    margin: 5px;
+    padding: 10px;
+    padding-left: 80px;
+  }
+  .menubar-m ul li a{
+    text-decoration: none;
+    color: rgb(15, 14, 14);
+  }
+  .devotional{
+    background: rgb(31, 31, 31);
+    display: flex;
+    /* overflow-x: scroll; */
+  }
+  .logo-pic{
+    width: 750px;
+    height: 590px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  .logo-pic-small{
+    width: 50px;
+    height: 3pc;
+    border-radius: 100%;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 15px;;
+  }
+  .logo{
+    display: flex;
+  }
+  .head{
+    display: flex;
+  }
+  .tollywood-1{
+    display: flex;
+    overflow-x: scroll;
+  }
+  .player{
+    width: 13%;
+    padding-left: 160px;
+  }
+  .song-pic-2
+{
+    width: 195px;
+    height: 15pc;
+    cursor: pointer;
+}
+.player1{
+  width: 98%;
+}
+.image{
+  position: absolute;
+  border: 1px solid #fff ;
+  width: 18%;
+  height: 70vh;
+  left: 15%;
+  bottom: 10%;
+  border-radius: 3%;
+  background-color: rgb(146, 177, 222);
+}
+.image-2{
+  position: absolute;
+  border: 1px solid #fff ;
+  width: 80%;
+  height: 60vh;
+  left: 10%;
+  bottom: 9%;
+  background-color: #1b1b1b;
+}
+.login{
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  color: #fff;
+}
+.head{
+  width: 150px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: -65%;
+}
+.head1{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-top: 10%;
+  padding-left: 25%;
+}
+body{
+  background-color: rgb(14, 15, 15);
+}
+.user-pic-1{
+width: 135px;
+height: 15pc;
+border-radius: 150%;
+cursor: pointer;
+margin-left: 30px;
+margin-top: 10px;
+}
+.logo-pic-song{
+width: 120px;
+height: 10pc;
+border-radius: 150%;
+cursor: pointer;
+margin-left: 30px;
+margin-top: 10px;
+}
+.song-pic{
+width: 70px;
+height: 6pc;
+border-radius: 150%;
+cursor: pointer;
+margin-left: 30px;
+margin-top: 10px; 
+}
+.song-pic-h{
+  width: 195px;
+  height: 15pc;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-top: 10px;
+}
